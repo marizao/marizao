@@ -4,6 +4,8 @@
 - 📜 Estudando JavaScript e React
 - 👧 Pronomes: Ela/Dela
 
+##
+
 <div>
 <a href= "https://github.com/marizao/github-readme-stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marizao&show_icons=true&theme=radical"/>
@@ -21,7 +23,9 @@
 
 </div>
 
-<br>
+##
+
+
 <div>
 <a href= "https://www.linkedin.com/in/mariamenechini/">
 <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
