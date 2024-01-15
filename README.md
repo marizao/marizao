@@ -6,13 +6,13 @@
 
 ##
 
-<div>
+<div align="center">
 <a href= "https://github.com/marizao/github-readme-stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marizao&show_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marizao&layout=donut&theme=radical"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
 
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
