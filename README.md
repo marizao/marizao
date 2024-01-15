@@ -1,8 +1,17 @@
 ### Bem-vindo(a), sou Maria Menechini - Estudante de ciência da computação na UERJ.
+<div>
+<a href= "https://www.linkedin.com/in/mariamenechini/">
+<img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</div>
+
+##
 
 - 🛡️ Hoje estagio com Segurança da Informação
 - 📜 Estudando JavaScript e React
 - 👧 Pronomes: Ela/Dela
+
+
 
 ##
 
@@ -26,8 +35,4 @@
 ##
 
 
-<div>
-<a href= "https://www.linkedin.com/in/mariamenechini/">
-<img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-</div>
